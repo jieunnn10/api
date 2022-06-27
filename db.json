@@ -140,11 +140,9 @@
 		]
 	},
 	"requestUpdate":{
-		"seq":"1"
-		, "statusCd":"C"
-		, "rejtReason":"반려사유"
-		, "chgNo":"123456"
-		, "chgNm":"홍길동"
+		"apiUid":"CMS_IF_04"
+		, "resultCd":"0000"
+		, "resultMsg":"성공적으로 처리되었습니다."
 	},
 	"statusList":{
 		"apiUid":"CMS_IF_07"
