@@ -2,6 +2,7 @@
 	"requestList":{
 		"apiUid":"CMS_IF_03"
 		, "resultCd":"0000"
+		, "totalCnt":"112"
 		, "resultMsg":"성공적으로 처리되었습니다."
 		, "knowInfo":[
 			{
@@ -123,18 +124,6 @@
 				, "rejtReason":"내용 불충분10"
 				, "chgNo":"634567"
 				, "chgNm":"위길동"
-				, "chgDtm":"20220520130520"
-			},{
-				"seq":11
-				, "title":"지식등록 요청 제목11"
-				, "contents":"지식등록 요청 내용11"
-				, "statusCd":"S"
-				, "reqrNo":"334567"
-				, "reqNm":"이길동"
-				, "reqDtm":"20220518130520"
-				, "rejtReason":"내용 불충분11"
-				, "chgNo":"434567"
-				, "chgNm":"최길동"
 				, "chgDtm":"20220520130520"
 			}
 		]
