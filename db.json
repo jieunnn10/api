@@ -7,7 +7,7 @@
 		, "knowInfo":[
 			{
 				"seq":1
-				, "title":"지식등록 요청 제목"
+				, "title":"<b>지식등록 요청 제목</b>"
 				, "contents":"지식등록 요청 내용"
 				, "statusCd":"R"
 				, "reqrNo":"123456"
